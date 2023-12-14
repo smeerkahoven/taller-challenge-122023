@@ -39,7 +39,7 @@ public class Solution {
             int k = Integer.parseInt(args[1]);
             System.out.println("value :" + value);
             System.out.println("k :" + k);
-            System.out.println(Solution.countSubstring(value, k));
+            System.out.println("result:" +Solution.countSubstring(value, k));
         }
 
     }
