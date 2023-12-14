@@ -1,14 +1,13 @@
 # taller-challenge-122023
 
-Para correr el proyecto se puede ejecutar desde consola
-
+To run project, execute from prompt line
 
 ```
 ./run.sh arg1 arg2
 ```
 
-donde: 
+where: 
 
-arg1 es la cadena
+arg1 : string value
 
-arg2 es el valor de k
+arg2 : k value
